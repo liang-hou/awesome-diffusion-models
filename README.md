@@ -34,3 +34,25 @@ CVPR 2022 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_
 **DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**<br>
 *Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman*<br>
 CVPR 2023 [[arXiv]](https://arxiv.org/abs/2208.12242)
+
+## Video Diffusion Models
+
+**Video Diffusion Models**<br>
+*Jonathan Ho, Tim Salimans, Alexey Gritsenko, William Chan, Mohammad Norouzi, David J. Fleet*<br>
+NeurIPS 2022 [[Project]](https://video-diffusion.github.io) [[Paper]](https://openreview.net/forum?id=f3zNgKga_ep) [[arXiv]](https://arxiv.org/abs/2204.03458)
+
+**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**<br>
+*Jay Zhangjie Wu, Yixiao Ge, Xintao Wang, Weixian Lei, Yuchao Gu, Wynne Hsu, Ying Shan, Xiaohu Qie, Mike Zheng Shou*<br>
+[[Project]](https://tuneavideo.github.io) [[arXiv]](https://arxiv.org/abs/2212.11565) [[Code]](https://github.com/showlab/Tune-A-Video) [[Demo]](https://huggingface.co/spaces/Tune-A-Video-library/Tune-A-Video-inference)
+
+**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**<br>
+*Chenyang Qi, Xiaodong Cun, Yong Zhang, Chenyang Lei, Xintao Wang, Ying Shan, Qifeng Chen*<br>
+[[Project]](https://fate-zero-edit.github.io) [[arXiv]](https://arxiv.org/abs/2303.09535) [[Code]](https://github.com/ChenyangQiQi/FateZero) [[Demo]](https://huggingface.co/spaces/chenyangqi/FateZero)
+
+**Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models**<br>
+*Wen Wang, Kangyang Xie, Zide Liu, Hao Chen, Yue Cao, Xinlong Wang, Chunhua Shen*<br>
+[[arXiv]](https://arxiv.org/abs/2303.17599) [[Code]](https://github.com/baaivision/vid2vid-zero) [[Demo]](https://huggingface.co/spaces/BAAI/vid2vid-zero)
+
+**Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos**<br>
+*Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Ying Shan, Xiu Li, Qifeng Chen*<br>
+[[Project]](https://follow-your-pose.github.io) [[arXiv]](https://arxiv.org/abs/2304.01186) [[Code]](https://arxiv.org/abs/2304.01186) [[Demo]](https://huggingface.co/spaces/YueMafighting/FollowYourPose)
